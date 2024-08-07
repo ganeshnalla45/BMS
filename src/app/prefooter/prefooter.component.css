@@ -1,0 +1,118 @@
+.last{
+    margin-top: 2%;
+    font-size: 1.5vw;
+}
+.trending{
+    padding-left: 10vw;
+}
+.top{
+    display: flex;
+    gap: 1.8vw;
+    margin-left: 10vw;
+    margin-top: 1.2vw;
+}
+
+.lastone{
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 1vw;
+    gap: 1.8vw;
+}
+.top1 button{
+    width: 10vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    color:#F84464;
+    background-color:#FFFFFF;
+    border-radius: 3px;
+
+}
+.top button p{
+    color: rgb(42, 44, 44);
+}
+.top2 button{
+    width: 10vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.top3 button{
+    width: 7vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.top4 button{
+    width: 13vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.top5 button{
+    width: 7vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.top6 button{
+    width: 7vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.last1 button{
+    width: 15vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    color:#F84464;
+    background-color:#FFFFFF;
+    border-radius: 3px;
+
+}
+.lastone button p{
+    color: rgb(42, 44, 44);
+}
+.last2 button{
+    width: 10vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.last3 button{
+    width: 15vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}
+.last4 button{
+    width: 7vw;
+    height: 4vw;
+    font-size: 1vw;
+    border: 1px solid rgb(219, 216, 216);
+    background-color:#FFFFFF;
+    color:#F84464;
+    border-radius: 3px;
+}

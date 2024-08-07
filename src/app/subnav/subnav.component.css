@@ -1,0 +1,30 @@
+.nav{
+    background-color:#F5F5F5;
+    width: 100%;
+    height: 2.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 0.5vw;
+}
+.first{
+    display: flex;
+    gap: 1.6vw;
+    margin-right: 10%;
+    font-family: sans-serif;
+    color: #333333;
+}
+.first h6{
+    color: #333333;
+    font-size: 1vw;
+}
+.sec{
+    display: flex;
+    gap: 1.6vw;
+    margin-left: 14%;
+    font-family: sans-serif;
+    color: #333333;
+}
+.sec h6{
+    font-size: 0.8vw;
+}

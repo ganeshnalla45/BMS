@@ -1,0 +1,91 @@
+.bann{
+    margin-top: 2%;
+
+}
+
+.see i{
+    padding-right: vw;
+}
+.space{
+    display: flex;
+    justify-content:space-between ;
+    margin-right: ;
+}
+.space b{
+    margin-left: 10vw ;
+    font-size: 1.4vw;
+}
+.space h6{
+    padding-right: 9.5vw;
+    color: rgb(244, 46, 46);
+    font-size: 0.9vw;
+    
+}
+.images{
+    display:flex;
+    gap: 1.6vw;
+    margin-left: 10vw;
+    margin-top: 0.4%;
+    
+}
+.img1 img{
+    height: 24vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img2 img{
+    height: 24vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img3 img{
+    height: 24vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}   
+.img4 img{
+    height: 24vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img5 img{
+    height: 24vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.names{
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 1%
+    
+}
+.names h5{
+    color: #222222;
+    font-size: 1.3vw;
+}
+.names p{
+    color: #666666;
+}
+.name1{
+    width: 14vw;
+}
+.name2{
+    padding-left: 3vw;
+    width: 14vw;
+    
+}
+.name3{
+    padding-left: 4.9vw;
+    width: 21vw;
+}
+.name4{
+    padding-left: 0.8vw;
+}
+.name5{
+    padding-left: 3.7vw;
+    width: 14vw;
+}
+.bar{
+    margin-top: 4.5%;
+}
+

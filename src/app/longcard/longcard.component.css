@@ -1,0 +1,104 @@
+.body{
+    background-color:#2B3149;
+    height: 42vw;
+    width: 100%;
+    margin-top: 4%;
+}
+.play{
+    margin-left: 10vw;
+}
+.play img{
+    padding-top: 1%;
+    width: 100%;
+}
+.bann{
+    margin-top: 1%;
+
+}
+.recom h5{
+    padding-left: 10vw;
+    font-size: 14px;
+    color: white;
+}
+.see i{
+    padding-right: vw;
+}
+.space{
+    display: flex;
+    justify-content:space-between ;
+    margin-right: ;
+}
+.space b{
+    margin-left: 10vw ;
+    font-size: 1.4vw;
+    color: white;
+}
+.space h6{
+    padding-right: 9.5vw;
+    color: rgb(244, 46, 46);
+    font-size: 0.9vw;
+    
+}
+.images{
+    display:flex;
+    gap: 1.6vw;
+    margin-left: 10vw;
+    margin-top: 0.3%;
+    
+}
+.img1 img{
+    height: 22vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img2 img{
+    height: 22vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img3 img{
+    height: 22vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}   
+.img4 img{
+    height: 22vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.img5 img{
+    height: 22vw;
+    width: 14.9vw;
+    border-radius: 7px;
+}
+.names{
+    display: flex;
+    margin-left: 10vw;
+    margin-top: 1%
+    
+}
+.names h5{
+    color: #f6f1f1;
+    font-size: 1.3vw;
+}
+.names p{
+    color: hsl(0, 11%, 96%);
+    font-size: 1vw;
+}
+.name2{
+    padding-left: 9.5vw;
+    
+}
+.name3{
+    padding-left: 3.8vw;
+}
+.name4{
+    padding-left: 12.5vw;
+}
+.name5{
+    padding-left: 8.7vw;
+}
+.bar{
+    margin-top: 4.5%;
+}
+
